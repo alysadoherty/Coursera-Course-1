@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+
+
+#navbar{
+    position: sticky;
+    top: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    background-color:#F29441;
+}
+
+
+#main-content{
+    margin-top: 50px;
+}
+
+
+#main-content{
+    background-color: #A2A62E;
+}
+
+
+.border-c{
+    border: 3px solid #332F40;
+}
